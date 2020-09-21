@@ -1,5 +1,3 @@
-# Marble_Sorter
-
 # Description
 This marble sorter is a project where the objective was to sort between marbles of different materials. Using VEX robotic devices and sensors, the job is to separate the marbles of different materials completely.
 
